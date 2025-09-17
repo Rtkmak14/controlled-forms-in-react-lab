@@ -49,7 +49,7 @@ input {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
+  flex-direction: row;
   border: 1px solid white;
   padding: 5px;
   width: 40%;
